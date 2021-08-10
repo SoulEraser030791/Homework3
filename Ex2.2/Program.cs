@@ -1,11 +1,11 @@
 ﻿using System;
 
-    class Program
-    {
+        class Program
+        {
     static void Main(string[] args) { }
     
     
-        internal class CComplex
+        public class CComplex
         {
             private double im;
             double re;
